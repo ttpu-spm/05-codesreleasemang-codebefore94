@@ -32,7 +32,7 @@ _Here you should put the URL of your final repository after finishing the given 
 
 1. Introduction to Repository Management: [_REPO LINK 1_](https://github.com/codebefore94/skills-introduction-to-repository-management)
 2. Release based workflow: [_REPO LINK 2_](https://github.com/codebefore94/skills-release-based-workflow2)
-3. Useful Tips in Github:  _REPO LINK 3_
+3. Useful Tips in Github:  [_REPO LINK 3_](https://github.com/codebefore94/skills-connect-the-dots2)
 4. Code with GitHub Codespaces: _REPO LINK 4_
 
 
